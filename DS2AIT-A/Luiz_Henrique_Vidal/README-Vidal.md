@@ -3,7 +3,7 @@
 # ACME - FILMES
 
 ## Critérios
-- [ ] ```Todas as telas prototipadas foram criadas conforme figma?```
+- [x] ```Todas as telas prototipadas foram criadas conforme figma?```
 - [ ] Criou pastas para separar os diversos tipos de arquivos?
 - [ ] Utilizou variáveis CSS para cores e padrões?
 - [ ] Nomes das classes CSS são semânticas e padronizadas? 
